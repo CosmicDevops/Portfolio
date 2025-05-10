@@ -1,4 +1,8 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  images: {
+    disableStaticImages: true, // Disables static image optimization
+  },
+};
 
 export default nextConfig;
