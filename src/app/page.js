@@ -54,7 +54,7 @@ export default function Home() {
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 0.3, duration: 1 }}
               >
-                <h2 className="text-xl">Hello, It's Me</h2>
+                <h2 className="text-xl">Hello, Its Me</h2>
                 <h1 className="text-3xl md:text-5xl font-bold">Keerthivasan Venkattesvarane</h1>
                 <h3 className="text-xl md:text-2xl">
                   And Im a <span className="text-cyan-300">Frontend Developer</span>
