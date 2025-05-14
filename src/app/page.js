@@ -57,7 +57,7 @@ export default function Home() {
                 <h2 className="text-xl">Hello, It's Me</h2>
                 <h1 className="text-3xl md:text-5xl font-bold">Keerthivasan Venkattesvarane</h1>
                 <h3 className="text-xl md:text-2xl">
-                  And I'm a <span className="text-cyan-300">Frontend Developer</span>
+                  And Im a <span className="text-cyan-300">Frontend Developer</span>
                 </h3>
                 <p className="text-sm md:text-base text-justify">
                   A passionate developer who thrives on solving complex problems, learning new technologies, and building scalable solutions.
